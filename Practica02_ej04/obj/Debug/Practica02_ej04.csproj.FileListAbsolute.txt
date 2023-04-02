@@ -1,0 +1,3 @@
+C:\Users\KANOM\Desktop\uni\Progra2\Practica02_ej04\obj\Debug\Practica02_ej04.csproj.AssemblyReference.cache
+C:\Users\KANOM\Desktop\uni\Progra2\Practica02_ej04\obj\Debug\Practica02_ej04.csproj.SuggestedBindingRedirects.cache
+C:\Users\KANOM\Desktop\uni\Progra2\Practica02_ej04\obj\Debug\Practica02_ej04.csproj.CoreCompileInputs.cache

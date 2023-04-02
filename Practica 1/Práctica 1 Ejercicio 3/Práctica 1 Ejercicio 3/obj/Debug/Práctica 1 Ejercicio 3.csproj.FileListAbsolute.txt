@@ -1,0 +1,8 @@
+\\disc\personal\Práctica 1 Ejercicio 3\Práctica 1 Ejercicio 3\obj\Debug\Práctica 1 Ejercicio 3.csproj.AssemblyReference.cache
+\\disc\personal\Práctica 1 Ejercicio 3\Práctica 1 Ejercicio 3\obj\Debug\Práctica 1 Ejercicio 3.csproj.SuggestedBindingRedirects.cache
+\\disc\personal\Práctica 1 Ejercicio 3\Práctica 1 Ejercicio 3\obj\Debug\Práctica 1 Ejercicio 3.csproj.CoreCompileInputs.cache
+\\disc\personal\Práctica 1 Ejercicio 3\Práctica 1 Ejercicio 3\bin\Debug\Práctica 1 Ejercicio 3.exe.config
+\\disc\personal\Práctica 1 Ejercicio 3\Práctica 1 Ejercicio 3\bin\Debug\Práctica 1 Ejercicio 3.exe
+\\disc\personal\Práctica 1 Ejercicio 3\Práctica 1 Ejercicio 3\bin\Debug\Práctica 1 Ejercicio 3.pdb
+\\disc\personal\Práctica 1 Ejercicio 3\Práctica 1 Ejercicio 3\obj\Debug\Práctica 1 Ejercicio 3.exe
+\\disc\personal\Práctica 1 Ejercicio 3\Práctica 1 Ejercicio 3\obj\Debug\Práctica 1 Ejercicio 3.pdb

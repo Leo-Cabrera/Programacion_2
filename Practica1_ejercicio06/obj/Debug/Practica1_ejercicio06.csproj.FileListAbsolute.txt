@@ -1,0 +1,11 @@
+C:\Users\KANOM\Desktop\uni\Progra2\Practica1_ejercicio06\bin\Debug\Practica1_ejercicio06.exe.config
+C:\Users\KANOM\Desktop\uni\Progra2\Practica1_ejercicio06\bin\Debug\Practica1_ejercicio06.exe
+C:\Users\KANOM\Desktop\uni\Progra2\Practica1_ejercicio06\bin\Debug\Practica1_ejercicio06.pdb
+C:\Users\KANOM\Desktop\uni\Progra2\Practica1_ejercicio06\obj\Debug\Practica1_ejercicio06.csproj.AssemblyReference.cache
+C:\Users\KANOM\Desktop\uni\Progra2\Practica1_ejercicio06\obj\Debug\Practica1_ejercicio06.csproj.SuggestedBindingRedirects.cache
+C:\Users\KANOM\Desktop\uni\Progra2\Practica1_ejercicio06\obj\Debug\Practica1_ejercicio06.Form1.resources
+C:\Users\KANOM\Desktop\uni\Progra2\Practica1_ejercicio06\obj\Debug\Practica1_ejercicio06.Properties.Resources.resources
+C:\Users\KANOM\Desktop\uni\Progra2\Practica1_ejercicio06\obj\Debug\Practica1_ejercicio06.csproj.GenerateResource.cache
+C:\Users\KANOM\Desktop\uni\Progra2\Practica1_ejercicio06\obj\Debug\Practica1_ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\KANOM\Desktop\uni\Progra2\Practica1_ejercicio06\obj\Debug\Practica1_ejercicio06.exe
+C:\Users\KANOM\Desktop\uni\Progra2\Practica1_ejercicio06\obj\Debug\Practica1_ejercicio06.pdb

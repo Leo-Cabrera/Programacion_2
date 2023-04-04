@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Practica02_ej04.NivelesOcupacion;
 
 namespace Practica02_ej04
 {
@@ -12,15 +13,22 @@ namespace Practica02_ej04
         private int NumCarriles { get; set; }
         private string Nombre { get; set; }
         private string Codigo { get; set; }
-        NivelesOcupacion ocupacion;
+        private NivelOcupacion Ocupacion { get; set; }
 
-        public Calle (string codigo, string nombre, int longitud, int numcarr,NivelesOcupacion ocupacion)
+        public Calle(string codigo, string nombre, int longitud, int numcarr, NivelOcupacion ocupacion)
         {
-            Codigo= codigo;
-            Nombre= nombre;
+            Codigo = codigo;
+            Nombre = nombre;
             Longitud = longitud;
             NumCarriles = numcarr;
-            this.ocupacion = ocupacion;
+            Ocupacion = ocupacion;
 
         }
+        public NivelOcupacion GetoOcupasao() { return Ocupacion; }
+
+        internal NivelesOcupacion getOcupacion()
+        {
+            throw new NotImplementedException();
+        }
     }
+}

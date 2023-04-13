@@ -1,0 +1,8 @@
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej06\Practica02_ej06\bin\Debug\Practica02_ej06.exe.config
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej06\Practica02_ej06\bin\Debug\Practica02_ej06.exe
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej06\Practica02_ej06\bin\Debug\Practica02_ej06.pdb
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej06\Practica02_ej06\obj\Debug\Practica02_ej06.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej06\Practica02_ej06\obj\Debug\Practica02_ej06.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej06\Practica02_ej06\obj\Debug\Practica02_ej06.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej06\Practica02_ej06\obj\Debug\Practica02_ej06.exe
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej06\Practica02_ej06\obj\Debug\Practica02_ej06.pdb

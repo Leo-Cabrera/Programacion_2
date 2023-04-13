@@ -6,6 +6,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 using static Practica02_ej04.NivelesOcupacion;
+using static Practica02_ej04.Calle;
 
 namespace Practica02_ej04
 {
@@ -16,6 +17,14 @@ namespace Practica02_ej04
         private Calle [] CallesEntrada;
         private Calle [] CallesSalida;
 
+        public Cruce (string nombre, string codigo, Calle[] callesEntrada, Calle[] callesSalida)
+        {
+            Nombre = nombre;
+            Codigo = codigo;
+            CallesEntrada = callesEntrada;
+            CallesSalida = callesSalida;
+        }
+
         public bool Congestionado()
         {
       
@@ -23,17 +32,15 @@ namespace Practica02_ej04
             int contSalida = 0;
             for (int i = 0; i < CallesEntrada.Length; i++)
             {
-                NivelesOcupacion nEntrada = CallesEntrada[i].getOcupacion();
          
-
-                if ( nEntrada == NivelOcupacion.Rojo)
+                if (CallesEntrada[i].GetOcupacion() == "Rojo")
                 {
                     contEntrada++;
                 }
             }
             for (int i = 0; i < CallesSalida.Length;)
             {
-                if (CallesSalida[i].getOcupacion() == NivelOcupacion.Rojo)
+                if (CallesSalida[i].GetOcupacion() == "Rojo")
                 {
                     contSalida++;
                 }

@@ -10,8 +10,11 @@ namespace pruebas
     {
         static void Main(string[] args)
         {
-            Random rnd = new Random();
-            Console.WriteLine(rnd.Next(10, 20));
+            double n = 35.7777;
+
+            int nomnum = (int) n;
+
+            Console.WriteLine(nomnum);
 
             Console.ReadKey();
         }

@@ -8,30 +8,16 @@ using System.Threading.Tasks;
 
 namespace Practica02_ej04
 {
-    internal class NivelesOcupacion
+    public class NivelesOcupacion
     {
-        public enum NivelOcupacion { Verde, Amarillo, Rojo };
-
-        private NivelOcupacion ocupacion { get; }
-        public NivelesOcupacion(string niveocup)
+        public enum EnumOcupacion { Verde, Amarillo, Rojo };
+        private EnumOcupacion ocupacion { get; }
+        public NivelesOcupacion(EnumOcupacion niveocup)
         {
-            if (niveocup == "Verde")
-            {
-                ocupacion = NivelOcupacion.Verde;
-            }
-            else if (niveocup == "Amarillo")
-            {
-                ocupacion = NivelOcupacion.Amarillo;
-            }
-            else if (niveocup == "Rojo")
-            {
-                ocupacion = NivelOcupacion.Rojo;
-            }
-            else
-            {
-                Console.WriteLine("No es un color valido");
-            }   
+            ocupacion = niveocup;
         }
+
+        
         
 
 

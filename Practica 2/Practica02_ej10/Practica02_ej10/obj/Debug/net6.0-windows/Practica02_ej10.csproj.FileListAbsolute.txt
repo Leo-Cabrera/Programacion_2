@@ -1,0 +1,17 @@
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\bin\Debug\net6.0-windows\Practica02_ej10.exe
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\bin\Debug\net6.0-windows\Practica02_ej10.deps.json
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\bin\Debug\net6.0-windows\Practica02_ej10.runtimeconfig.json
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\bin\Debug\net6.0-windows\Practica02_ej10.dll
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\bin\Debug\net6.0-windows\Practica02_ej10.pdb
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\Practica02_ej10.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\Practica02_ej10.Form1.resources
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\Practica02_ej10.csproj.GenerateResource.cache
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\Practica02_ej10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\Practica02_ej10.AssemblyInfoInputs.cache
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\Practica02_ej10.AssemblyInfo.cs
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\Practica02_ej10.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\Practica02_ej10.dll
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\refint\Practica02_ej10.dll
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\Practica02_ej10.pdb
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\Practica02_ej10.genruntimeconfig.cache
+C:\Users\Leo\Desktop\Uni\Programacion_2\Practica 2\Practica02_ej10\Practica02_ej10\obj\Debug\net6.0-windows\ref\Practica02_ej10.dll

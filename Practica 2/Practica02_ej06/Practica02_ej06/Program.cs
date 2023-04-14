@@ -10,16 +10,16 @@ namespace Practica02_ej06
     {
         static void Main(string[] args)
         {
-            int[,] matriz = new int /* [3,6]*/[,] { { 4, 0, 4, 2, 0, 2 }, { 4, 16, 0, 2, 0, 0 }, { 0, 0, 0, 8, 2, 0 } };
+            int[,] matriz = new int[,] { { 4, 0, 4, 2, 0, 2 }, { 4, 16, 0, 2, 0, 0 }, { 0, 0, 0, 8, 2, 0 } };
             
-            /*for (int i = 0; i < matriz.Length; i++)
+            for (int i = 0; i < matriz.Length; i++)
             {
                 for (int j = 0; j < matriz.Length; j++)
                 {
                     Console.WriteLine("Dame el elemento(" + Convert.ToString(i) + "," + Convert.ToString(j) + ")");
                     matriz[i, j] = Convert.ToInt16(Console.ReadLine());
                 }
-            }*/
+            }
             
 
 

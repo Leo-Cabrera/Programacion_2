@@ -10,17 +10,16 @@ namespace Practica02_ej08
     {
         static void Main(string[] args)
         {
-            int[,] matriz = new int[,] { {8,8,2,4,4,2}, {0,0,0,4,16,2}, {0,0,0,0,2,2} };
-            /*
-            for (int i = 0; i < matriz.Length; i++)
+            int[,]matriz = new int[,] { { 2, 0, 0, 2, 0, 0 }, { 4, 0, 0, 2, 0, 0, }, { 4, 16, 4, 8, 2, 2 } };
+
+            /*for (int i = 0; i < matriz.Length; i++)
             {
                 for (int j = 0; j < matriz.Length; j++)
                 {
                     Console.WriteLine("Dame el elemento(" + Convert.ToString(i) + "," + Convert.ToString(j) + ")");
                     matriz[i, j] = Convert.ToInt16(Console.ReadLine());
                 }
-            }
-            */
+            }*/
 
 
 
@@ -30,20 +29,17 @@ namespace Practica02_ej08
                 {
                     for (int j = 0; j < matriz.GetLength(1) - 1; j++)
                     {
-                        if (k < matriz.GetLength(1))
+                        if (j+1 < matriz.GetLength(1))
                         {
                             if (matriz[k,j] == matriz[k, j+1] && matriz[k, j] != 0)
                             {
-                                if (k + 1 < matriz.GetLength(0))
-                                {
-                                    matriz[k, j+1] = matriz[k, j] + matriz[k, j+1];
-                                }
-                                if (k > 0)
+                                matriz[k, j+1] = matriz[k, j] + matriz[k, j+1];
+                                if (j > 0)
                                 {
                                     matriz[k,j] = matriz[k, j-1];
                                     matriz[k, j-1] = 0;
                                 }
-                                if (k == 0)
+                                else if (j == 0)
                                 {
                                     matriz[k, j] = 0;
                                 }

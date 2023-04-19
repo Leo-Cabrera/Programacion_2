@@ -10,12 +10,10 @@ namespace pruebas
     {
         static void Main(string[] args)
         {
-            double n = 35.7777;
+            int[] a = { 1, 2 };
 
-            int nomnum = (int) n;
-
-            Console.WriteLine(nomnum);
-
+            int b = Convert.ToInt32(a);
+            Console.WriteLine(b);
             Console.ReadKey();
         }
     }

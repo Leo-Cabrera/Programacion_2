@@ -10,7 +10,7 @@ namespace Practica02_ej08
     {
         static void Main(string[] args)
         {
-            int[,] matriz = new int[,] { {8,8,2,4,4,2}, {0,0,0,4,16,2}, {0,0,0,0,2,2} };
+            int[,] matriz = new int[,] { { 4, 0, 4, 2, 0, 2 }, { 4, 16, 0, 2, 0, 0 }, { 0, 0, 0, 8, 2, 0 } };
             /*
             for (int i = 0; i < matriz.Length; i++)
             {
@@ -23,6 +23,30 @@ namespace Practica02_ej08
             */
 
 
+            for (int k = 0; k < matriz.GetLength(0); k++)
+            {
+                for (int i = matriz.GetLength(1) - 1; i > 0; i--)
+                {
+                    for (int j = 0; j < matriz.GetLength(1); j++)
+                    {
+                        if(j+1 < matriz.GetLength(1))
+                        {
+                            if (matriz[k, j] != 0 && matriz[k, j + 1] == 0)
+                            {
+
+                                int aux = matriz[k, j];
+                                matriz[k, j] = matriz[k, j + 1];
+                                matriz[k, j + 1] = aux;
+                            }
+                        }
+                        
+
+
+                    }
+
+                }
+            }
+            
 
             for (int k = 0; k < matriz.GetLength(0); k++)
             {
@@ -30,24 +54,29 @@ namespace Practica02_ej08
                 {
                     for (int j = 0; j < matriz.GetLength(1) - 1; j++)
                     {
-                        if (k < matriz.GetLength(1))
+                        if (j+1 < matriz.GetLength(1))
                         {
                             if (matriz[k,j] == matriz[k, j+1] && matriz[k, j] != 0)
                             {
-                                if (k + 1 < matriz.GetLength(0))
-                                {
-                                    matriz[k, j+1] = matriz[k, j] + matriz[k, j+1];
-                                }
-                                if (k > 0)
+                                matriz[k, j+1] = matriz[k, j] + matriz[k, j+1];
+                                
+                                if (j > 0)
                                 {
                                     matriz[k,j] = matriz[k, j-1];
                                     matriz[k, j-1] = 0;
                                 }
-                                if (k == 0)
+                                if (j == 0)
                                 {
                                     matriz[k, j] = 0;
                                 }
 
+                            }
+                            if (matriz[k, j] != 0 && matriz[k, j + 1] == 0)
+                            {
+
+                                int aux = matriz[k, j];
+                                matriz[k, j] = matriz[k, j + 1];
+                                matriz[k, j + 1] = aux;
                             }
                         }
 

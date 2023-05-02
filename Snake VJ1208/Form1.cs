@@ -46,17 +46,17 @@ namespace Snake_VJ1208
         {
             switch(e.KeyCode)
             {
-                case Keys.Up:
+                case arriba:
+                    
+                                        break;
+                case abajo:
 
                                         break;
-                case Keys.Down:
+
+                case izquierda:
 
                                         break;
-
-                case Keys.Left:
-
-                                        break;
-                case Keys.Right:
+                case derecha:
 
                                         break;
 

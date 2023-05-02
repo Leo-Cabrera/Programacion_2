@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Leo\\.nuget\\packages\\": {}
+    "C:\\Users\\KANOM\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Leo\\Desktop\\Uni\\Programacion_2\\Practica 2\\Practica02_ej10\\Practica02_ej10\\Practica02_ej10.csproj",
+      "projectUniqueName": "C:\\Users\\KANOM\\Desktop\\uni\\Programacion_2\\Practica 2\\Practica02_ej10\\Practica02_ej10\\Practica02_ej10.csproj",
       "projectName": "Practica02_ej10",
-      "projectPath": "C:\\Users\\Leo\\Desktop\\Uni\\Programacion_2\\Practica 2\\Practica02_ej10\\Practica02_ej10\\Practica02_ej10.csproj",
-      "packagesPath": "C:\\Users\\Leo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Leo\\Desktop\\Uni\\Programacion_2\\Practica 2\\Practica02_ej10\\Practica02_ej10\\obj\\",
+      "projectPath": "C:\\Users\\KANOM\\Desktop\\uni\\Programacion_2\\Practica 2\\Practica02_ej10\\Practica02_ej10\\Practica02_ej10.csproj",
+      "packagesPath": "C:\\Users\\KANOM\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KANOM\\Desktop\\uni\\Programacion_2\\Practica 2\\Practica02_ej10\\Practica02_ej10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Leo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\KANOM\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -17,11 +17,17 @@ namespace Snake_VJ1208
 
         public Marcador()
         {
+            Marc.Location = new System.Drawing.Point(30, 30);
             puntos = 0;
             T_vida = 10;
             Marc.Font = new Font("Courier", 18);
             Marc.AutoSize = true;
 
+        }
+
+        public void mas_vida(int valor)
+        {
+            puntos += valor;
         }
         
 

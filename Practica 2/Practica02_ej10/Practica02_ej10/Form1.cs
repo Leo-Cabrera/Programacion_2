@@ -206,5 +206,10 @@ namespace Practica02_ej10
         {
 
         }
+
+        private void Up_Click_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

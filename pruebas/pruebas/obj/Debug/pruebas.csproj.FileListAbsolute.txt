@@ -6,3 +6,11 @@ C:\Users\Leo\Desktop\Uni\Programacion_2\pruebas\pruebas\obj\Debug\pruebas.csproj
 C:\Users\Leo\Desktop\Uni\Programacion_2\pruebas\pruebas\obj\Debug\pruebas.csproj.CoreCompileInputs.cache
 C:\Users\Leo\Desktop\Uni\Programacion_2\pruebas\pruebas\obj\Debug\pruebas.exe
 C:\Users\Leo\Desktop\Uni\Programacion_2\pruebas\pruebas\obj\Debug\pruebas.pdb
+C:\Users\KANOM\Desktop\uni\Programacion_2\pruebas\pruebas\bin\Debug\pruebas.exe.config
+C:\Users\KANOM\Desktop\uni\Programacion_2\pruebas\pruebas\bin\Debug\pruebas.exe
+C:\Users\KANOM\Desktop\uni\Programacion_2\pruebas\pruebas\bin\Debug\pruebas.pdb
+C:\Users\KANOM\Desktop\uni\Programacion_2\pruebas\pruebas\obj\Debug\pruebas.csproj.AssemblyReference.cache
+C:\Users\KANOM\Desktop\uni\Programacion_2\pruebas\pruebas\obj\Debug\pruebas.csproj.SuggestedBindingRedirects.cache
+C:\Users\KANOM\Desktop\uni\Programacion_2\pruebas\pruebas\obj\Debug\pruebas.csproj.CoreCompileInputs.cache
+C:\Users\KANOM\Desktop\uni\Programacion_2\pruebas\pruebas\obj\Debug\pruebas.exe
+C:\Users\KANOM\Desktop\uni\Programacion_2\pruebas\pruebas\obj\Debug\pruebas.pdb

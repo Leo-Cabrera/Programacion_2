@@ -1,0 +1,8 @@
+C:\Users\Leo\Desktop\Uni\Programacion_2\ejercicios de prueba\ejercicios de prueba\bin\Debug\ejercicios de prueba.exe.config
+C:\Users\Leo\Desktop\Uni\Programacion_2\ejercicios de prueba\ejercicios de prueba\bin\Debug\ejercicios de prueba.exe
+C:\Users\Leo\Desktop\Uni\Programacion_2\ejercicios de prueba\ejercicios de prueba\bin\Debug\ejercicios de prueba.pdb
+C:\Users\Leo\Desktop\Uni\Programacion_2\ejercicios de prueba\ejercicios de prueba\obj\Debug\ejercicios de prueba.csproj.AssemblyReference.cache
+C:\Users\Leo\Desktop\Uni\Programacion_2\ejercicios de prueba\ejercicios de prueba\obj\Debug\ejercicios de prueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Leo\Desktop\Uni\Programacion_2\ejercicios de prueba\ejercicios de prueba\obj\Debug\ejercicios de prueba.csproj.CoreCompileInputs.cache
+C:\Users\Leo\Desktop\Uni\Programacion_2\ejercicios de prueba\ejercicios de prueba\obj\Debug\ejercicios de prueba.exe
+C:\Users\Leo\Desktop\Uni\Programacion_2\ejercicios de prueba\ejercicios de prueba\obj\Debug\ejercicios de prueba.pdb
